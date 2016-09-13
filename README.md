@@ -1,2 +1,2 @@
-# HERBERT
-Herbert twitters stuff about FACT to the whole wide WORLD!
+# einhorn_fuer_deutschland
+Twitter Bot to mock tweets by german right-wing idiots.
