@@ -1,4 +1,6 @@
 #HERBERT
+### High Energy Ray Bulletin Energy Ray Twitter 
+
 
 The FACT Twitter bot.
 
